@@ -1,11 +1,13 @@
 # main links
 main:
   - title: "About"
-    url: /docs/about/
+    url: /
   - title: "Research"
-    url: /docs/research/
+    url: /research/
   - title: "CV"
-    url: /docs/cv/
+    url: "https://docs.google.com/document/d/1nd3z4mBkRtXsoP6dWCkCiNkvpNpZR2nqg6RrGlx6zy8/edit?usp=sharing"
+  - title: "Resources"
+    url: /resource/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
