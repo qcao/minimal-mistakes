@@ -15,7 +15,7 @@ obtained my MA in Psychology at New York University and my BS in Psychology from
 I'm broadly interested in the early representations and computations that guide learning. Especially, how children
 select information to reason about the causal structures of the physical and social world. There are three main lines of
 research during my PhD training: children's representation of coincidences, infants and preschoolers' reasoning about
-agents' competence and performance, and surprise-induced learning in infancy. You can read more about [my
+agents' abilities, and surprise-induced learning in infancy. You can read more about [my
 research here](/research/).
 
 When I'm not working, I enjoy listening to [soft music](https://youtube.com/playlist?list=PLjKI5ONdAyGS01UfxE2alDJZ-ffOFPM73), watching clouds and flowers, and adoring my lovely [cat](/assets/images/yurekwithplants.jpg) or helping the less fortunate cats in shelters.
