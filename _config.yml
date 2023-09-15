@@ -109,7 +109,7 @@ author:
   avatar           : "/assets/images/QCLabProfilePhoto.jpeg"
   bio              : "Ph.D. candidate at Johns Hopkins University"
   location         : "Baltimore, Maryland, USA"
-  email            : "qcao14@jhu.edu"
+  # email            : "qcao14"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
