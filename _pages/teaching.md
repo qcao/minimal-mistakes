@@ -24,12 +24,6 @@ You can find the syllabus [here](https://docs.google.com/document/d/1lsBvrpyafpr
 
 Research is not only about science, but also about the people who do science. I deeply value the opportunities to learn and grow alongside my mentees.
 
-I understand different people came in with different goals, and I appreciate different people bringing unique perspectives. I try to do my best to provide the most effective and personalized guidance to each student.   
-
-My goal is to help my students not only achieve their academic goals, but also develop skills and mindsets that can be helpful in the long run.  
-
-
-
 I understand that everyone comes with different goals objectives, and I cherish the diversity of perspectives each person brings. I try my best to offer tailored guidance to fit each student's unique needs and aspirations.
 
 My goal is to not only guide my mentees in reaching their academic goals, but also to cultivate skills and mindsets that will benefit them in the long run.
