@@ -23,7 +23,7 @@ Ever shared a birthday with a colleague or bumped into an old buddy in the most 
 
 In this project, we seek to understand how adults and children represent coincidences. We're particularly interested in the role of available explanations and the number of co-occurrences in shaping judgments. Results suggested that representations of coincidences are available early in life, yet it still undergo some developmental changes during the early school-age years.
 
-Check out our poster from CDS 2022 [here](/assets/files/CDS2022_poster_Coincidence_CaoFeigenson.pdf).
+Check out our poster from CDS 2022 [here](./assets/files/CDS2022_poster_Coincidence_CaoFeigenson.pdf).
 
 
 ## Learning consequences after observing violations in the social domain
