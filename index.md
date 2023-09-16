@@ -12,9 +12,9 @@ the [JHU Lab for Child Development](https://labforchilddevelopment.com/). Previo
 obtained my MA in Psychology at New York University and my BS in Psychology from Zhejiang University, China.
 
 I'm interested in the representations and computations that underpin reasoning and learning, with a particular focus on early development. My work spans from different age groups and topics, with key questions such as: "How do children build and update representations?" and "Which factors do young children weigh on when deciding what to learn?" During my PhD, I am focusing on how infants and young children reason about and learn from agents, objects, and daily life events.
-You can read more about [my research here](/research/).
+You can read more about [my research here](./research/).
 
-In my free time, I enjoy listening to soft music, watching clouds and flowers, and adoring cute animals, especially [my lovely cat](/assets/images/yurek.jpg).
+In my free time, I enjoy listening to soft music, watching clouds and flowers, and adoring cute animals, especially [my lovely cat](./assets/images/yurek.jpg).
 
 You can contact me at: qiong.cao AT jhu.edu.
 
