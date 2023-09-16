@@ -30,4 +30,4 @@ I understand that everyone comes with different goals objectives, and I cherish 
 
 My goal is to not only guide my mentees in reaching their academic goals, but also to cultivate skills and mindsets that will benefit them in the long run.
 
-To date, I have mentored over ten students. These students have gone on to PhD positions at schools such as University of Rutgers, Yale, UCLA, among others.
+To date, I have mentored over ten students. It's heartwarming to see my mentees continue on their academic journeys. Some of them have gone on to PhD positions at schools such as University of Rutgers, Yale University, and UCLA, among others.
