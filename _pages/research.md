@@ -23,7 +23,7 @@ Ever shared a birthday with a colleague or bumped into an old buddy in the most 
 
 In this project, we seek to understand how adults and children represent coincidences. We're particularly interested in the role of available explanations and the number of co-occurrences in shaping judgments. Results suggested that representations of coincidences are available early in life, yet it still undergo some developmental changes during the early school-age years.
 
-Check out our poster [here](/assets/files/CDS2022_poster_Coincidence_CaoFeigenson.pdf).
+Check out our poster from CDS 2022 [here](/assets/files/CDS2022_poster_Coincidence_CaoFeigenson.pdf).
 
 
 ## Learning consequences after observing violations in the social domain
@@ -36,7 +36,6 @@ As children navigate the complicated social world, they're confronted with many 
 
 In a series of experiments, we aim to explore the learning consequences of seeing violations of expectations in the social domain. In our experiments, infants (15-19 months old) saw a person committed a violation of psychological expectations (consistency of goals, efficient action, appropriate emotion), and then were taught about the person who committed the violation or information about the object involved in the violation. Data so far suggested that infants do learn more about the object that involved in the violation,  yet the learning of agents shows a more complicated picture. 
 
-Check out talk slides [here](/assets/files/socialVoESIL_SRCD2023.pdf) (data not up to date).  
 
 ## Early reasoning about agents' task performance
 
@@ -47,8 +46,6 @@ Imagine you're waiting for a blood test and you have two nurses to choose from -
 As social being, we are highly sensitive to others' abilities, weighing various factors that impact people's performance. Do children also exhibit this sensitivity to others' abilities? If so, how sophisticated is their reasoning?
 
 In this project, I explored children's evaluations of others' competence and performance, especially how external constraints might affect performance. The general method is ask children to predict people's performance under different circumstance, such as being having blocked vision or being distracted by a phone call. So far the data suggested that 4-year-olds can make correct inference about people's performance in a force-choice task. Notably, even 20-month-olds hold the expectation that being distracted by a phone call will impede others' performance. 
-
-Check out our poster [here](/assets/files/CaoFeigenson_SRCD2023_ChildrenCompetencePerformance.pdf).
 
 
 ## Optimal violation for surprise-induced learning
